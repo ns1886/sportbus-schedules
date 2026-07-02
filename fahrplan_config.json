@@ -1,0 +1,58 @@
+{
+  "fahrplaene": [
+    {
+      "filename": "sportbus_fahrplan_winter_aussersaison.json",
+      "gueltigVon": "2025-11-29",
+      "gueltigBis": "2025-12-19",
+      "beschreibung": "Wintersportbus Hauptsaison - 30-Minuten-Takt"
+    },
+    {
+      "filename": "sportbus_fahrplan_winter_hauptsaison.json",
+      "gueltigVon": "2025-12-20",
+      "gueltigBis": "2026-01-04",
+      "beschreibung": "Wintersportbus Hauptsaison - 15-Minuten-Takt"
+    },
+    {
+      "filename": "sportbus_fahrplan_winter_nebensaison.json",
+      "gueltigVon": "2026-01-05",
+      "gueltigBis": "2026-01-23",
+      "beschreibung": "Wintersportbus Vorsaison - 30-Minuten-Takt"
+    },
+    {
+      "filename": "sportbus_fahrplan_winter_hauptsaison.json",
+      "gueltigVon": "2026-01-24",
+      "gueltigBis": "2026-03-01",
+      "beschreibung": "Wintersportbus Hauptsaison - 15-Minuten-Takt"
+    },
+    {
+      "filename": "sportbus_fahrplan_winter_nebensaison.json",
+      "gueltigVon": "2026-03-02",
+      "gueltigBis": "2026-03-29",
+      "beschreibung": "Wintersportbus Vorsaison - 30-Minuten-Takt"
+    },
+    {
+      "filename": "sportbus_fahrplan_winter_aussersaison.json",
+      "gueltigVon": "2026-03-30",
+      "gueltigBis": "2026-04-12",
+      "beschreibung": "Wintersportbus Hauptsaison - 30-Minuten-Takt"
+    },
+    {
+      "filename": "sportbus_fahrplan_sommer_hauptsaison.json",
+      "gueltigVon": "2026-07-11",
+      "gueltigBis": "2026-08-09",
+      "beschreibung": "Sommersportbus - 30-Minuten-Takt (Linie Rot & Blau)"
+    },
+    {
+      "filename": "sportbus_fahrplan_sommer_nebensaison.json",
+      "gueltigVon": "2026-08-10",
+      "gueltigBis": "2026-11-01",
+      "beschreibung": "Sommersportbus Nebensaison - 30-Minuten-Takt"
+    }
+    {
+      "filename": "sportbus_fahrplan_sommer_nebensaison.json",
+      "gueltigVon": "2026-05-14",
+      "gueltigBis": "2026-07-10",
+      "beschreibung": "Sommersportbus Nebensaison - 30-Minuten-Takt"
+    }
+  ]
+}
