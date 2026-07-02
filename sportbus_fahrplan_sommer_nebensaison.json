@@ -1,8 +1,9 @@
 {
   "hinweise": {
     "blau": {
-      "de": "Die blaue Linie verkehrt ab 11. Juli wieder.",
-      "en": "The blue line will operate again from July 11th."
+      "de": "Die Linie Blau verkehrt wieder ab dem 11. Juli",
+      "en": "The blue line will operate again from July 11th",
+      "availableFrom": "2026-07-11"
     }
   },
   "linien": {
