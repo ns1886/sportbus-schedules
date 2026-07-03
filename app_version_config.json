@@ -1,6 +1,6 @@
 {
-     "minRequiredVersion": "1.5",
-     "latestVersion": "1.6",
+     "minRequiredVersion": "1.9",
+     "latestVersion": "1.9",
      "forceUpdate": false,
      "updateMessage": {
        "de": "Test: Neue Version verfügbar!",
