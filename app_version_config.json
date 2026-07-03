@@ -1,0 +1,10 @@
+{
+  "minRequiredVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateMessage": {
+    "de": "Bitte aktualisieren Sie die App auf die neueste Version für ein optimales Erlebnis.",
+    "en": "Please update the app to the latest version for the best experience."
+  },
+  "forceUpdate": false,
+  "updateURL": "https://apps.apple.com/app/idXXXXXXXXXX"
+}
