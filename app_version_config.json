@@ -1,10 +1,10 @@
 {
-  "minRequiredVersion": "1.5",
-  "latestVersion": "1.5",
-  "updateMessage": {
-    "de": "Bitte aktualisieren Sie die App auf die neueste Version für ein optimales Erlebnis.",
-    "en": "Please update the app to the latest version for the best experience."
-  },
-  "forceUpdate": true,
-  "updateURL": "https://apps.apple.com/app/id6756501120"
-}
+     "minRequiredVersion": "1.0.0",
+     "latestVersion": "1.1.0",
+     "forceUpdate": false,
+     "updateMessage": {
+       "de": "Test: Neue Version verfügbar!",
+       "en": "Test: New version available!"
+     },
+     "updateURL": "https://apple.com"
+   }
