@@ -1,7 +1,7 @@
 {
      "minRequiredVersion": "1.9",
      "latestVersion": "1.9",
-     "forceUpdate": false,
+     "forceUpdate": true,
      "updateMessage": {
        "de": "Test: Neue Version verfügbar!",
        "en": "Test: New version available!"
