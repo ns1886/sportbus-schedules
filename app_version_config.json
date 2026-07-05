@@ -1,10 +1,10 @@
 {
-     "minRequiredVersion": "1.9",
-     "latestVersion": "1.9",
-     "forceUpdate": true,
-     "updateMessage": {
-       "de": "Test: Neue Version verfügbar!",
-       "en": "Test: New version available!"
-     },
-     "updateURL": "https://apple.com"
-   }
+  "minRequiredVersion": "1.0.0",
+  "latestVersion": "1.6.0",
+  "forceUpdate": false,
+  "updateURL": "https://apps.apple.com/ch/app/sportbus-lenzerheide/id6756501120",
+  "updateMessage": {
+    "de": "Eine neue Version ist verfügbar!",
+    "en": "A new version is available!"
+  }
+}
